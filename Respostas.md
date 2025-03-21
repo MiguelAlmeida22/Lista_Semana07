@@ -101,7 +101,7 @@ Classe Moto herda de Veiculo
 **Justificativa:** As classes Carro e Moto herdam da classe Veiculo, aproveitando os atributos comuns (modelo e ano). Cada uma implementa seu próprio método CalcularConsumo, que utiliza a quilometragem percorrida e a eficiência (km/l) para calcular o consumo de combustível.
 ______
 
-#### 9.
+#### 9. (Utilizei o ChatGPT para me auxiliar nessa questão)
 
 ```javascript
 Início
