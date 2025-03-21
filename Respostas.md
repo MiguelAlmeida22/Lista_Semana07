@@ -27,7 +27,7 @@ ______
 
 #### 6.  **_A) Simular física avançada, incluindo corpos rígidos, colisões complexas e interação entre objetos com gravidade e forças._**
 
-**Justificativa:** O módulo Matter.js Physics no Phaser.js é utilizado para simular física avançada no jogo, como corpos rígidos, colisões complexas, gravidade e aplicação de forças. Ele permite comportamentos realistas entre objetos e reações físicas detalhadas.
+**Justificativa:** O módulo Matter.js Physics no Phaser é utilizado para simular física avançada no jogo, como corpos rígidos, colisões complexas, gravidade e aplicação de forças. Ele permite comportamentos realistas entre objetos e reações físicas detalhadas.
 ______
 
 #### 7.  
